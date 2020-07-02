@@ -32,6 +32,7 @@ a:hover {
 }
 body {
 	overflow-x: hidden;
+	background: rgb(224, 224, 224);
 }
 section {
 	padding: 100px 0;
